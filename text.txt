@@ -1,0 +1,252 @@
+{
+  "title": "\n\n",
+  "url": "javascript:void(0)",
+  "description": "We have an angular app that makes use of Angular and AngularJS - the project is also a mix of js and ts files. We have two karma configurations, one for the Angular tests and another for the AngularJS ..."
+}
+{
+  "title": "\n\n",
+  "url": "javascript:void(0)",
+  "description": "I'm trying to add unit testing to my axios API callsthe .get call was easy to do... but when it comes to the POST/PUT/DELETE calls, I can't make it work.here's what I tried (for POST)my test:test (..."
+}
+{
+  "title": "Karma unit tests with angular hybrid application importing modules as strings",
+  "url": "/questions/71235720/karma-unit-tests-with-angular-hybrid-application-importing-modules-as-strings",
+  "description": "So I have an h1 headline, and what I want is when I hover over the h1, it changes to an image I have. Any tips?I have tried something like this in CSS:h1:hover.img-top {}I am really stuck here ..."
+}
+{
+  "title": "Unit test Axios POST/PUT/DELETE with Jest on ReactJS/Typescript",
+  "url": "/questions/71235719/unit-test-axios-post-put-delete-with-jest-on-reactjs-typescript",
+  "description": "For readability purpose when displaying informations using yaml format, I'd like to be able to replace a yaml array with its json equivalentThe thing is that I may have several instances to replace ..."
+}
+{
+  "title": "Text to image, when :hover [closed]",
+  "url": "/questions/71235717/text-to-image-when-hover",
+  "description": "{\"ISBN:9781611748864\": {\"bib_key\": \"ISBN:9781611748864\", \"info_url\": \"https://openlibrary.org/books/OL26092341M/The_Complete_Lord_Of_The_Rings_Trilogy\"..."
+}
+{
+  "title": "replace yaml array with json format using bash, yq, jq",
+  "url": "/questions/71235716/replace-yaml-array-with-json-format-using-bash-yq-jq",
+  "description": "how to install mySSA and use it in google colab?I have just found this \"from mySSA import mySSA\" and I got the error: no module named \"mySSA\""
+}
+{
+  "title": "Fetching data from API using kotlin",
+  "url": "/questions/71235715/fetching-data-from-api-using-kotlin",
+  "description": "Hello I am creating a gantt chart in seconds to calculate the time of a robot line.I use the Anychart library. When I get to 60 seconds it goes back to zero and resets my chart.I retrieve the ..."
+}
+{
+  "title": "Is there any easy explanation I can understand X_ppa = ppa.fit_transform(X)",
+  "url": "/questions/71235714/is-there-any-easy-explanation-i-can-understand-x-ppa-ppa-fit-transformx",
+  "description": "I'm working on a project where code coverage needs to display in Sonarqube.We are framing dockerfile.test where at ENTRYPOINT nosetests is provided. setup.cfg file is created putting all required ..."
+}
+{
+  "title": "Anychart Gantt time in seconds which resets to zero",
+  "url": "/questions/71235711/anychart-gantt-time-in-seconds-which-resets-to-zero",
+  "description": "Im fighting an industrial protocol specification where Im unable to calculate the request packet checksum.This is the spec from the datasheetSome other examples of the packets are:0x55 64 00 07 00 ..."
+}
+{
+  "title": "Getting 0% coverage in Sonarqube , Using nosetests for generating coverage.xml",
+  "url": "/questions/71235710/getting-0-coverage-in-sonarqube-using-nosetests-for-generating-coverage-xml",
+  "description": "[ERROR] Failed to execute goal org.sonarsource.scanner.maven:sonar-maven-plugin:3.9.1.2184:sonar (default-cli) on project rrda_wms: Error when executing blame for file src/main/java/com/res/service/..."
+}
+{
+  "title": "Can you decypher this checksum calculation?",
+  "url": "/questions/71235709/can-you-decypher-this-checksum-calculation",
+  "description": "Complex array type validation rules in Laravel using postman API. for beginner to advanced level"
+}
+{
+  "title": "SonarQube Spring boot application not working",
+  "url": "/questions/71235704/sonarqube-spring-boot-application-not-working",
+  "description": "I need to disable login page Keycloak redirect in Spring Boot app, this are my configurations:application.ymlserver:  port: 8091  connection-timeout: 6000keycloak:  enabled: true  bearer-only: ..."
+}
+{
+  "title": "Validation with complex array in laravel",
+  "url": "/questions/71235703/validation-with-complex-array-in-laravel",
+  "description": "my problemI downloaded the app from gitlab and I get an error when I try to build it"
+}
+{
+  "title": "Can not configure Keycloak 17 in spring boot app - elements [keycloak.keycloak.bearer-only] were left unbound",
+  "url": "/questions/71235702/can-not-configure-keycloak-17-in-spring-boot-app-elements-keycloak-keycloak-b",
+  "description": "I am trying to add css preprocessor SCSS  in SvelteKit.I have created file main.scss in src/style/main.scssmy svelte.config.js:import preprocess from \"svelte-preprocess\";config={  ..."
+}
+{
+  "title": "\u041d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 react native",
+  "url": "/questions/71235699/%d0%9d%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-react-native",
+  "description": "The question is: write a boolean function that receives two linked lists, and returns whether the lists are connected (at some point they both point to the same node). I was not allowed to allocate ..."
+}
+{
+  "title": "How to add SCSS in svelte.config.js?",
+  "url": "/questions/71235697/how-to-add-scss-in-svelte-config-js",
+  "description": "I'm having issues using the ecos solver in matlab. When I want to call the function ecos I get the error message in the title. I know that the function calls my script instead of the real function. ..."
+}
+{
+  "title": "Intrerview question: determine whether two linked lists are connected or not",
+  "url": "/questions/71235696/intrerview-question-determine-whether-two-linked-lists-are-connected-or-not",
+  "description": "I have a little problem with c# client generated on OpenAPI 3.0 specification.One of paths takes custom enum as optional parameter and when I generate client created method looks like that..."
+}
+{
+  "title": "Error: Attempt to execute SCRIPT ecos as a function",
+  "url": "/questions/71235695/error-attempt-to-execute-script-ecos-as-a-function",
+  "description": "Is there any way to check if a user is authenticated in the Django template using async view? I am having the errors SynchronousOnlyOperation when I do {% if user.is_authenticated %} in my template.I ..."
+}
+{
+  "title": "OpenAPI 3.0 Generated Client nullable enum",
+  "url": "/questions/71235693/openapi-3-0-generated-client-nullable-enum",
+  "description": "I had some problems with my authentification on my veeml API. My authentication isn't working I cannot go on the login platform. How can I get my security token from this API?"
+}
+{
+  "title": "Django 4 template check if user is authenticated using async view",
+  "url": "/questions/71235687/django-4-template-check-if-user-is-authenticated-using-async-view",
+  "description": "When I was about to clean up the memory of the Linux host, I used the top command to check the memory usage, and found that the result of the query was inconsistent with the host memory displayed by ..."
+}
+{
+  "title": "API VEEML authentication",
+  "url": "/questions/71235686/api-veeml-authentication",
+  "description": "I am working on a project started back to 1980s, my mission is to substitute the primitive double with the Dummy class I create. The following is the simplified problematic code:class Dummy{private:..."
+}
+{
+  "title": "The host memory displayed on the CDH is inconsistent with that queried with the top command",
+  "url": "/questions/71235685/the-host-memory-displayed-on-the-cdh-is-inconsistent-with-that-queried-with-the",
+  "description": "We want to fetch contentful collection items based on a key grouping.I am using the apollo graphQl to query the contentful api for retrieving the data, Where we have plain collection of data and I ..."
+}
+{
+  "title": "Unnamed union member has non-trivial operator",
+  "url": "/questions/71235683/unnamed-union-member-has-non-trivial-operator",
+  "description": "DevExpress control ASPxComboBox is returning -1 as selected index when encoderType is given in web.configHere is my DevExpress control            <dx:ASPxComboBox ID=\"txtPaymentProvider\"..."
+}
+{
+  "title": "How to implement groupBy in graphQl with contentful",
+  "url": "/questions/71235680/how-to-implement-groupby-in-graphql-with-contentful",
+  "description": "I almost read all the questions and answers on the web about this topic.I'm trying to create a macro that, in the beginning, does a text to column using \"!\" Char.Here is the macro:Columns(..."
+}
+{
+  "title": "encoderType AntiXssEncoder is conflicting with DevExpress control",
+  "url": "/questions/71235679/encodertype-antixssencoder-is-conflicting-with-devexpress-control",
+  "description": "I have a question about the looping in batch file.Is there any way to make the LOOP function can go back to previous part to download the file again if file download failure?In this situation, if ..."
+}
+{
+  "title": "Problem with TEXT-to-COLUMN VBA (format date error)",
+  "url": "/questions/71235675/problem-with-text-to-column-vba-format-date-error",
+  "description": "However, I'm unable to get the desired response in assertion. I have used json extractor and givenName of created variable as : contenttypeJson path expression: $..contenttypeDefault values: ..."
+}
+{
+  "title": "Quesition of for loop go back previous to re-download file in cmd batch",
+  "url": "/questions/71235674/quesition-of-for-loop-go-back-previous-to-re-download-file-in-cmd-batch",
+  "description": "I'm developing an application in angular (Angular CLI: 13.1.4) and when integrating Firebase, I'm getting some export errors (given below), any one please suggest me an solutionapp.module.jsimport ..."
+}
+{
+  "title": "I am trying to get dynamic value of a response variable in an api using jmeter json extractor and using reponse assertion of substring to assert it",
+  "url": "/questions/71235673/i-am-trying-to-get-dynamic-value-of-a-response-variable-in-an-api-using-jmeter-j",
+  "description": "I have an angular12 app in which i have following routesapp-routing.module.tsconst routes: Routes = [  {     path: '',     component: AppLayoutComponent,     canActivate: [AuthGuard],     ..."
+}
+{
+  "title": "export 'getToken' (imported as 'getToken$1') was not found in 'firebase/app-check' (module has no exports)",
+  "url": "/questions/71235669/export-gettoken-imported-as-gettoken1-was-not-found-in-firebase-app-chec",
+  "description": "I'm working on an web application with ReactJS and Nodejs and I use Nodemailer to send email. All work fine but, my current issue is that I'm looking for a way to categorize the sent email so that ..."
+}
+{
+  "title": "Route is not loading correctly in angular12?",
+  "url": "/questions/71235665/route-is-not-loading-correctly-in-angular12",
+  "description": "Suppose we have a vector of some type that can be clonedlet foo_vec = vec![clonable_item_1, clonable_item_2, ...];How to determine whether to use .clone() and .cloned() when iterating?foo_vec.iter(..."
+}
+{
+  "title": "How to add a label to an email with Nodemailer?",
+  "url": "/questions/71235664/how-to-add-a-label-to-an-email-with-nodemailer",
+  "description": "In Firestore version 8, I can generate document ID before writing to the database with this.const postId = postsCollection.doc().idBut how do I get the document ID in Firestore version 9 before ..."
+}
+{
+  "title": "How to determine whether to use .clone() and .cloned() with iterators",
+  "url": "/questions/71235663/how-to-determine-whether-to-use-clone-and-cloned-with-iterators",
+  "description": "I need to read Excel file, and then for each row - I need to classify according to the value (of certain column -'size')Like:Let's say that onw row has the value (under the 'size' column) is smaller ..."
+}
+{
+  "title": "How to generate document ID before write operation in Firestore version 9",
+  "url": "/questions/71235662/how-to-generate-document-id-before-write-operation-in-firestore-version-9",
+  "description": "https://www.geeksforgeeks.org/splay-tree-set-1-insert/When I was learning about splay trees, I referred to this article and had a little doubt about the code in it.this is splay function in this ..."
+}
+{
+  "title": "Read xslx, categorize and count [closed]",
+  "url": "/questions/71235660/read-xslx-categorize-and-count",
+  "description": "i am new to the entity framework.i want so find a spezific database item...i used this codeusing (var db = new DatabaseX(_connectionVar))            {                try                {        ..."
+}
+{
+  "title": "is this Ternary expression redundant in splay function",
+  "url": "/questions/71235658/is-this-ternary-expression-redundant-in-splay-function",
+  "description": "I am trying to make an https request (API gateway call to other Lambda) in my AWS Lambda function with Node.js, but without waiting for the response, so when the data has already been sent to the ..."
+}
+{
+  "title": "Query many values into one request - entity framework",
+  "url": "/questions/71235657/query-many-values-into-one-request-entity-framework",
+  "description": "I am not able to use the whole QDialog space for my QScrollArea. I set the QSizePolicy and setWidgetResizeable(true) , but with no results.from PySide6 import QtWidgets, QtCorefrom PySide6.QtCore ..."
+}
+{
+  "title": "Make POST https request in AWS Lambda without waiting for response",
+  "url": "/questions/71235656/make-post-https-request-in-aws-lambda-without-waiting-for-response",
+  "description": "I'm working with API using python(Django) but I need help with converting the temperatures from Celsius to Fahrenheit and vice versa with a radio button."
+}
+{
+  "title": "QScrollArea do not resize according to set size policy",
+  "url": "/questions/71235654/qscrollarea-do-not-resize-according-to-set-size-policy",
+  "description": "I need to implement an abstract class function, which own a an specific data type. But I need inside my logic layer to make the attribute which is going to be passed as a dynamic data type. But when i ..."
+}
+{
+  "title": "How do i do a temperature conversion in Django with radio buttons? [closed]",
+  "url": "/questions/71235653/how-do-i-do-a-temperature-conversion-in-django-with-radio-buttons",
+  "description": "The problem is that When the App is running then notification is working fine (notification goes to targeted screen ) However tha app state is onPause or closwd then notification on click not open the ..."
+}
+{
+  "title": "The argument type 'ListOf5' can't be assigned to the parameter type 'ListOf5'",
+  "url": "/questions/71235652/the-argument-type-listof5-cant-be-assigned-to-the-parameter-type-listof5",
+  "description": "By turning on the /clr option on files in a native C++ exe project, and by referencing a C# class library project from this C++ project (I'm using Visual Studio), I can gcnew classes that are defined ..."
+}
+{
+  "title": "Target Screen not open when app is not running Firebase Notification FCM?",
+  "url": "/questions/71235651/target-screen-not-open-when-app-is-not-running-firebase-notification-fcm",
+  "description": "@AfterReturning(value = \"anyPublicMethod() && applyPrivacy()\", returning = \"result\")public Object afterReturning(JoinPoint joinPoint, Object result) { return someService...."
+}
+{
+  "title": "Calling C# project from native C++",
+  "url": "/questions/71235650/calling-c-sharp-project-from-native-c",
+  "description": "I am getting started with Hyper on Rust. I have written a simple code(based on Hyper cannot find Server module ), and it seems to be nearly there, but running into few unexpected issues. Here is the ..."
+}
+{
+  "title": "Spring-AOP Return value of Aspect @AfterReturn is not working",
+  "url": "/questions/71235647/spring-aop-return-value-of-aspect-afterreturn-is-not-working",
+  "description": "I have Visual studio 2022 . in order to view any changes that I make through view or css or everywhere, I should I have stop and Start Running MVC application ( I mean the green trinagle in toolbar).I ..."
+}
+{
+  "title": "Rust Hyper and Futures",
+  "url": "/questions/71235646/rust-hyper-and-futures",
+  "description": "$query66 = \"INSERT INTO epiz_31122323_updates.sh1\".$name.\" SELECT * from epiz_31122323_movies.order1\";$exe66=mysqli_query($con,$query66);"
+}
+{
+  "title": "Cann't see the changes made in View without stopping the running application",
+  "url": "/questions/71235643/cannt-see-the-changes-made-in-view-without-stopping-the-running-application",
+  "description": "{    \"Employee\": {        \"EmployeeData\": {                        \"basePay\": \"1000\",                \"sumPayAmount\": \"2000\"            ..."
+}
+{
+  "title": "code is working perfectly on localhost but not in infinity free server. move a table from one db to another with name starting with sh1 [closed]",
+  "url": "/questions/71235641/code-is-working-perfectly-on-localhost-but-not-in-infinity-free-server-move-a-t",
+  "description": "I've set an  OIDC authentication with a custom authenticator as follow:class SsoAuthenticator  implements AuthenticatorInterface, AuthenticationEntryPointInterface{    private UserProviderInterface ..."
+}
+{
+  "title": "how to use compare field values in mongo compass",
+  "url": "/questions/71235640/how-to-use-compare-field-values-in-mongo-compass",
+  "description": "I have datatype JSON stored on postgress db, e g. column:jsondata.Each row on db table represent one JSON data of the same format,e.q.{ID: 001Name: BritneyDebtAmount: 100.23}There are multiple ..."
+}
+{
+  "title": "Authentication with symfony 6.1, Token sent with every request, but it returns credentials at each response, problem with session or kernel.response",
+  "url": "/questions/71235639/authentication-with-symfony-6-1-token-sent-with-every-request-but-it-returns-c",
+  "description": "I'm quite new to unity and programming in general and I'm using \"DontDestroyOnLoad (gameObject);\" in a script that manages the all sounds played in the game, I run in to a problem that ..."
+}
+{
+  "title": "Sum value from multiple JSON data in postgress sql",
+  "url": "/questions/71235638/sum-value-from-multiple-json-data-in-postgress-sql",
+  "description": "I am calling a SP from another SP. I have a following 2 stored procedure I need to get both results into OUT parameter and I call this from Server side (dot Net). But It doesn't work . I am getting ..."
+}
+{
+  "title": "How to keep variables with DontDestroyOnLoad unity",
+  "url": "/questions/71235637/how-to-keep-variables-with-dontdestroyonload-unity",
+  "description": "I have superset installed from a git clone.All seems to be working ok but I don't have the site-packages. For example File \"/usr/local/lib/python3.8/site-packages/flask/cli.py\" is missingI ..."
+}
+ct in jsconst users = [   {categories: 'FRENCH', user: [{id: 1}, {id: 2}]},    {categories: 'BELGIUM', user: [{id: 5}, {id: 3}, {id:4}]},   {categories: 'USA', user: [{..."
+}
