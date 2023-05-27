@@ -4,7 +4,7 @@ Simple scraper for different types of names
 
 #Installations
 
-* pip install beautifulsoup4
+* pip install requirements.txt
 
 #usage
 
